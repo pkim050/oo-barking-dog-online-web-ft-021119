@@ -8,6 +8,5 @@ class Dog
   end
 
   def name
-    self.name
   end
 end
