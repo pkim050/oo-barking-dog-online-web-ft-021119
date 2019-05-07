@@ -7,7 +7,7 @@ class Dog
     puts "woof!"
   end
 
-  def name(name)
+  def name
     self.name
   end
 end
